@@ -1,16 +1,11 @@
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"  # every day at midnight UTC
-  workflow_dispatch:
-
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
       - name: Generate GitHub Contribution Snake
         uses: Platane/snk@v3
@@ -24,6 +19,11 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Create output branch if not exists
+        run: |
+          git fetch origin output || true
+          git checkout -B output
 
       - name: Push Snake Animation to the output branch
         uses: crazy-max/ghaction-github-pages@v3
