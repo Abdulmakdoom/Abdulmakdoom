@@ -1,56 +1,80 @@
-# 💫 Hi there! I'm Zayn
+<h1 align="center">💻 Abdul Makdoom | MERN Stack Developer | Real-Time Web Specialist</h1>
 
-🎓 **B.Tech (ECE) Graduate – 2024**  
-💻 **MERN Stack Developer | WebRTC Enthusiast**  
-📍 Based in India
-
----
-### 👨‍💻 About Me
-
-I'm a **self-driven MERN Stack Developer** with a strong passion for creating responsive and scalable full-stack web applications.  
-Although I'm a **fresher**, I’ve built several personal projects using **MongoDB, Express.js, React.js, and Node.js**, and I love learning new technologies.
-
-🔴 **Currently working on:**  
-Real-time video calling apps using **WebRTC** and **Socket.IO**, where I'm exploring how peer-to-peer connections work, media stream handling, and signaling servers.
+<p align="center">
+  <strong>B.Tech (ECE) Graduate | Passionate About Building Scalable Full-Stack Apps</strong> <br />
+  <em>From circuits to code, I’m engineering real-time digital experiences with React, Node.js & WebRTC</em>
+</p>
 
 ---
 
-### 🚀 What I’m Working On
+## 👨‍💻 About Me
 
-- 🔗 Real-time apps with **WebRTC** + **Socket.IO**
-- 🔐 Full-stack authentication using **JWT**, **cookies**, and **MongoDB**
-- 🎨 Responsive UIs with **Tailwind CSS**, **React Hooks**, and **Framer Motion**
-- 🌐 Backend APIs with **Node.js**, **Express**, and **MongoDB**
+I’m a <strong>self-taught MERN Stack Developer</strong> and a 2024 B.Tech graduate in Electronics & Communication Engineering, based in 🇮🇳 India.
+
+I specialize in building full-stack applications that are:
+
+- ⚡ **Real-Time** — leveraging <strong>WebRTC</strong> & <strong>Socket.IO</strong> for instant communication
+- 🔐 **Secure** — powered by robust <strong>JWT authentication</strong> and secure RESTful APIs
+- 💡 **User-Centric** — responsive UIs with <strong>Tailwind CSS</strong> & <strong>Framer Motion</strong>
+- 🌐 **Production-Ready** — deployed on <strong>Vercel</strong> & <strong>Render</strong>, with CI/CD pipelines and environment-aware configs
+
+---
+
+## 🚀 Currently Working On
+
+| 💡 Project                                | 🔧 Tech Stack                                     | 🎯 Highlights                                                |
+|------------------------------------------|--------------------------------------------------|--------------------------------------------------------------|
+| **Realtime Video Chat App**              | React, WebRTC, Socket.IO, Node.js                | Peer-to-peer calls, screen sharing, signaling over Socket.IO |
+| **Auth System + Admin Panel**            | Node.js, Express, MongoDB, JWT, Cloudinary       | Token-based auth, profile updates, secure image upload       |
+| **Portfolio Website**                    | React, Vite, Tailwind, Framer Motion             | Animated, SEO-optimized, mobile-friendly                     |
+| **RESTful Blog API**                     | Express, MongoDB, Mongoose                       | CRUD, pagination, search, filtering                          |
 
 ---
 
-### ⚡ Fun Fact
+## 🧠 Tech Stack Proficiency
 
-From circuits to code — I discovered my passion in full-stack development and now I'm building real-time applications that connect people instantly!
+### 🔹 Frontend
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer--Motion-black?style=for-the-badge&logo=framer&logoColor=white)
 
+### 🔹 Backend & Auth
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-makdoom-253893237/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulmakdoom90@gmail.com)  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-%23ff5722?style=for-the-badge&logo=Firefox&logoColor=white)](https://portfolio-sandy-delta-24.vercel.app/)
-
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abdulmakdoom&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Abdulmakdoom&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulmakdoom&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🔹 Real-Time & DevOps
+![WebRTC](https://img.shields.io/badge/WebRTC-%23F37D1F.svg?style=for-the-badge&logo=webrtc&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-00979D?style=for-the-badge&logo=render&logoColor=white)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abdulmakdoom&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 📈 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdulmakdoom&theme=radical&show_icons=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulmakdoom&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulmakdoom&layout=compact&theme=radical" height="160" />
+</p>
 
 ---
-### 📫 Let's Connect
 
-I’m looking for **entry-level opportunities** and always open to **collaborate on exciting projects**.
+## 🌐 Connect With Me
 
-- 📧 **Email:** abdulmakdoom90@gmail.com  
-- 🌐 **Portfolio:** https://portfolio-sandy-delta-24.vercel.app 
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/abdul-makdoom-253893237
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I’m looking for **entry-level full-stack roles** or **collaborative open-source projects** where I can bring value with MERN + WebRTC.
+
+- 📧 Email: [abdulmakdoom90@gmail.com](mailto:abdulmakdoom90@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/abdul-makdoom-253893237](https://www.linkedin.com/in/abdul-makdoom-253893237/)  
+- 🌐 Portfolio: [portfolio-sandy-delta-24.vercel.app](https://portfolio-sandy-delta-24.vercel.app)
+
+---
+
+<div align="center">
+  <em>"Code isn't just logic — it's an experience. Let's build something people love using."</em><br/><br/>
+  <img src="https://visitcount.itsvg.in/api?id=Abdulmakdoom&icon=0&color=0" alt="Profile Visitors" />
+</div>
