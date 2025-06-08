@@ -1,4 +1,7 @@
 <h1 align="center">💻 Abdul Makdoom | MERN Stack Developer | Real-Time Web Specialist</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=450&lines=MERN+Stack+Developer;WebRTC+%26+Socket.IO+Enthusiast;Open+Source+Contributor;Building+Real-Time+Experiences" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <strong>B.Tech (ECE) Graduate | Passionate About Building Scalable Full-Stack Apps</strong> <br />
@@ -76,5 +79,5 @@ I’m looking for **entry-level full-stack roles** or **collaborative open-sourc
 
 <div align="center">
   <em>"Code isn't just logic — it's an experience. Let's build something people love using."</em><br/><br/>
-  <img src="https://visitcount.itsvg.in/api?id=Abdulmakdoom&icon=0&color=0" alt="Profile Visitors" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" />
 </div>
